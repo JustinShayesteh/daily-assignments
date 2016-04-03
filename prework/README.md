@@ -1,6 +1,6 @@
 # Welcome to Front-End Engineering!
 
-The following is the pre-work for the front-end class. The more you do, the more
+The following is the pre-work for the Front-End Engineering class. The more you do, the more
 you'll get out of the cohort. Do not skip this vital step!
 
 Go through this pre-work and turn in the [pre-work survey](http://goo.gl/forms/Yzj7Xh5BvH)
